@@ -9,7 +9,7 @@ import static java.lang.Math.*;
  *      => Print data in descending order
  *      => Find distances from a point to the city
  *
- * @author 2018/E/083
+ * @author Anuradha
  */
 
 public class CityDB {
